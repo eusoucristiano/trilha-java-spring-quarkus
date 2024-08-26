@@ -3,7 +3,7 @@
 
 ![Codacy grade (branch)](https://img.shields.io/codacy/grade/:projectId/:branch)
 
-Abaixo uma documentação das tecnologias/frameworks aqui utilizados
+Abaixo relação das tecnologias/frameworks aqui utilizados
 
 - ✨------------------------✨
 - Spring Framework
