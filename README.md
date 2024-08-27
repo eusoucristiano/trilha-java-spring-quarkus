@@ -1,9 +1,9 @@
 # trilha-java-spring-quarkus
-📄 ### _Documentação sobre trilha de desenvolvimento Java_
+### 📄 _Documentação sobre trilha de desenvolvimento Java_
 
 ![Codacy grade (branch)](https://img.shields.io/codacy/grade/:projectId/:branch)
 
-🖥️ Tecnologias/frameworks utilizados
+### 🖥️ Tecnologias/frameworks utilizados
 
 - ✨------------------------✨
 - Spring Framework
@@ -19,7 +19,7 @@
 - Railway
 - ✨------------------------✨
 
-💽 ## Ferramentas
+### 💽 Ferramentas
 
 - VSCode
 - Git
